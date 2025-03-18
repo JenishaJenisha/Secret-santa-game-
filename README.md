@@ -1,2 +1,2 @@
-# Secret-santa-game-
-Automatic secret santa game child assignment 
+Required Libraries:
+# pip install pandas openpyxl
